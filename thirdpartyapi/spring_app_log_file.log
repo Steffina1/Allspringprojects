@@ -1,0 +1,1307 @@
+[2024-04-15 21:18:24,539] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 5960 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-15 21:18:24,553] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-15 21:18:27,341] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-15 21:18:27,381] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-15 21:18:27,386] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-15 21:18:27,387] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-15 21:18:27,554] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-15 21:18:27,562] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 2686 ms
+[2024-04-15 21:18:28,419] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-15 21:18:28,465] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-15 21:18:28,492] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.041 seconds (process running for 6.191)
+[2024-04-15 21:18:38,933] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-15 21:18:38,934] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-15 21:18:38,935] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 1 ms
+[2024-04-15 21:18:39,121] [com.thirdpartapi.demo.Controller.RestController] [http-nio-8080-exec-2] [72] [INFO ] Calling post request for getting title
+[2024-04-16 22:13:40,274] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 8624 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-16 22:13:40,290] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-16 22:13:44,733] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-16 22:13:44,771] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-16 22:13:44,778] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-16 22:13:44,779] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-16 22:13:44,923] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-16 22:13:44,926] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 4377 ms
+[2024-04-16 22:13:46,718] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-16 22:13:46,833] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-16 22:13:46,872] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 8.047 seconds (process running for 9.339)
+[2024-04-17 14:14:45,249] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 20372 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 14:14:45,371] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 14:14:49,510] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 14:14:49,552] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:14:49,561] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 14:14:49,562] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 14:14:49,799] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 14:14:49,802] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 4197 ms
+[2024-04-17 14:14:51,166] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:14:51,326] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 14:14:51,394] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 7.032 seconds (process running for 8.541)
+[2024-04-17 14:18:36,302] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 14:18:36,303] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 14:18:36,305] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 2 ms
+[2024-04-17 14:18:36,556] [com.thirdpartapi.demo.Controller.RestController] [http-nio-8080-exec-1] [61] [INFO ] Calling post request for getting states
+[2024-04-17 14:35:13,603] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 12516 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 14:35:13,612] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 14:35:16,268] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 14:35:16,290] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:35:16,295] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 14:35:16,296] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 14:35:16,465] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 14:35:16,469] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 2699 ms
+[2024-04-17 14:35:17,398] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:35:17,484] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 14:35:17,506] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 4.909 seconds (process running for 6.058)
+[2024-04-17 14:35:34,189] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 14:35:34,191] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 14:35:34,193] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 1 ms
+[2024-04-17 14:51:17,261] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 11768 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 14:51:17,272] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 14:51:20,771] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 14:51:20,796] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:51:20,801] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 14:51:20,802] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 14:51:20,963] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 14:51:20,966] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3538 ms
+[2024-04-17 14:51:22,031] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:51:22,078] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 14:51:22,096] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.784 seconds (process running for 7.113)
+[2024-04-17 14:51:48,610] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-3] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 14:51:48,611] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-3] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 14:51:48,613] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-3] [554] [INFO ] Completed initialization in 2 ms
+[2024-04-17 14:51:49,740] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-3] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.Capitalfromcountry.getData()" because "capitalfromcountry" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.Capitalfromcountry.getData()" because "capitalfromcountry" is null
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getCapitalFromCountry(RestServiceImpl.java:39)
+	at com.thirdpartapi.demo.Controller.RestController.getCapitalOfCountry(RestController.java:49)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 14:53:07,941] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 22692 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 14:53:07,991] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 14:53:10,661] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 14:53:10,687] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:53:10,693] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 14:53:10,694] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 14:53:10,942] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 14:53:10,946] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 2795 ms
+[2024-04-17 14:53:11,942] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:53:12,041] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 14:53:12,062] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 4.952 seconds (process running for 6.095)
+[2024-04-17 14:53:16,665] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 14:53:16,666] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 14:53:16,670] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 3 ms
+[2024-04-17 14:54:01,226] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 19776 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 14:54:01,237] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 14:54:03,869] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 14:54:03,898] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:54:03,904] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 14:54:03,905] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 14:54:04,089] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 14:54:04,093] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 2666 ms
+[2024-04-17 14:54:04,930] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:54:04,978] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 14:54:05,000] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 4.612 seconds (process running for 5.767)
+[2024-04-17 14:54:09,951] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 14:54:09,952] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 14:54:09,955] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 2 ms
+[2024-04-17 14:55:00,157] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 17212 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 14:55:00,170] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 14:55:03,394] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 14:55:03,422] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:55:03,429] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 14:55:03,430] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 14:55:03,600] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 14:55:03,610] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3256 ms
+[2024-04-17 14:55:06,124] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:55:06,241] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 14:55:06,266] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 7.209 seconds (process running for 9.923)
+[2024-04-17 14:55:10,225] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 14:55:10,226] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 14:55:10,228] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 2 ms
+[2024-04-17 14:58:57,665] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 11312 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 14:58:57,675] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 14:59:01,108] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 14:59:01,133] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:59:01,139] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 14:59:01,140] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 14:59:01,338] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 14:59:01,350] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3391 ms
+[2024-04-17 14:59:02,232] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 14:59:02,279] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 14:59:02,298] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.824 seconds (process running for 7.128)
+[2024-04-17 14:59:07,583] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 14:59:07,584] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 14:59:07,589] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 4 ms
+[2024-04-17 15:00:58,756] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 7896 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 15:00:58,764] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 15:01:01,682] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 15:01:01,713] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:01:01,719] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 15:01:01,720] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 15:01:01,950] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 15:01:01,953] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3000 ms
+[2024-04-17 15:01:02,963] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:01:03,012] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 15:01:03,032] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.163 seconds (process running for 6.322)
+[2024-04-17 15:01:08,251] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 15:01:08,252] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 15:01:08,254] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 2 ms
+[2024-04-17 15:01:08,465] [com.thirdpartapi.demo.Controller.RestController] [http-nio-8080-exec-2] [67] [INFO ] Calling post request for getting states
+[2024-04-17 15:31:17,735] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 23916 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 15:31:17,783] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 15:31:22,031] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 15:31:22,057] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:31:22,063] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 15:31:22,064] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 15:31:22,277] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 15:31:22,281] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 4333 ms
+[2024-04-17 15:31:23,307] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:31:23,369] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 15:31:23,393] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 6.792 seconds (process running for 8.542)
+[2024-04-17 15:32:02,165] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 15:32:02,168] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 15:32:02,172] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 3 ms
+[2024-04-17 15:33:31,015] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.CountryApiResponse.getData()" because "countryApiResponse" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.CountryApiResponse.getData()" because "countryApiResponse" is null
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getCitiesfromCountries(RestServiceImpl.java:97)
+	at com.thirdpartapi.demo.Controller.RestController.getCitiesfromCountry(RestController.java:50)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 15:33:41,811] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 14288 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 15:33:41,838] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 15:33:45,228] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 15:33:45,249] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:33:45,255] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 15:33:45,256] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 15:33:45,479] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 15:33:45,486] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3468 ms
+[2024-04-17 15:33:46,575] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:33:46,636] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 15:33:46,667] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.796 seconds (process running for 7.231)
+[2024-04-17 15:33:54,950] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 15:33:54,951] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 15:33:54,955] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 2 ms
+[2024-04-17 15:35:52,204] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.CountryApiResponse.getData()" because "countryApiResponse" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.CountryApiResponse.getData()" because "countryApiResponse" is null
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getCitiesfromCountries(RestServiceImpl.java:97)
+	at com.thirdpartapi.demo.Controller.RestController.getCitiesfromCountry(RestController.java:50)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 15:38:34,167] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 2200 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 15:38:34,198] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 15:38:36,872] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 15:38:36,897] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:38:36,903] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 15:38:36,903] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 15:38:37,343] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 15:38:37,346] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 2966 ms
+[2024-04-17 15:38:38,376] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:38:38,439] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 15:38:38,459] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.155 seconds (process running for 6.642)
+[2024-04-17 15:38:44,989] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 15:38:44,992] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 15:38:44,999] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 2 ms
+[2024-04-17 15:38:49,703] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-3] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.CountryApiResponse.getData()" because "countryApiResponse" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.CountryApiResponse.getData()" because "countryApiResponse" is null
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getCitiesfromCountries(RestServiceImpl.java:97)
+	at com.thirdpartapi.demo.Controller.RestController.getCitiesfromCountry(RestController.java:50)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 15:39:04,919] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 17100 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 15:39:04,925] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 15:39:07,913] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 15:39:07,938] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:39:07,945] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 15:39:07,946] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 15:39:08,145] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 15:39:08,162] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3009 ms
+[2024-04-17 15:39:09,179] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:39:09,243] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 15:39:09,272] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.268 seconds (process running for 6.786)
+[2024-04-17 15:40:09,476] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 7532 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 15:40:09,488] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 15:40:12,753] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 15:40:12,778] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:40:12,784] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 15:40:12,785] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 15:40:12,967] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 15:40:12,972] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3286 ms
+[2024-04-17 15:40:14,426] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:40:14,501] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 15:40:14,540] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 6.238 seconds (process running for 7.725)
+[2024-04-17 15:40:24,391] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 15:40:24,392] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 15:40:24,394] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 1 ms
+[2024-04-17 15:44:18,373] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.CountryApiResponse.getData()" because "countryApiResponse" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.CountryApiResponse.getData()" because "countryApiResponse" is null
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getCitiesfromCountries(RestServiceImpl.java:97)
+	at com.thirdpartapi.demo.Controller.RestController.getCitiesfromCountry(RestController.java:50)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 15:44:28,946] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 13300 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 15:44:28,962] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 15:44:32,283] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 15:44:32,308] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:44:32,314] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 15:44:32,315] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 15:44:32,524] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 15:44:32,529] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3341 ms
+[2024-04-17 15:44:33,816] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 15:44:33,885] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 15:44:33,907] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.967 seconds (process running for 7.436)
+[2024-04-17 15:44:40,704] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 15:44:40,705] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 15:44:40,707] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 1 ms
+[2024-04-17 16:03:47,979] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 16048 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 16:03:48,000] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 16:03:52,544] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 16:03:52,571] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:03:52,579] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 16:03:52,580] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 16:03:52,828] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 16:03:52,834] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 4667 ms
+[2024-04-17 16:03:53,693] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:03:53,740] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 16:03:53,758] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 6.872 seconds (process running for 8.32)
+[2024-04-17 16:04:24,623] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 16:04:24,624] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 16:04:24,627] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 2 ms
+[2024-04-17 16:09:35,810] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 19928 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 16:09:35,816] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 16:09:38,672] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 16:09:38,695] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:09:38,701] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 16:09:38,702] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 16:09:38,920] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 16:09:38,924] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 2853 ms
+[2024-04-17 16:09:39,857] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:09:39,902] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 16:09:39,919] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 4.956 seconds (process running for 6.162)
+[2024-04-17 16:09:46,302] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 16:09:46,303] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 16:09:46,304] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 1 ms
+[2024-04-17 16:09:47,563] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getUnicodeFlagfromIso(RestServiceImpl.java:118)
+	at com.thirdpartapi.demo.Controller.RestController.getUnicodes(RestController.java:63)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 16:10:29,851] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 15104 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 16:10:29,868] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 16:10:33,429] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 16:10:33,455] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:10:33,462] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 16:10:33,463] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 16:10:33,698] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 16:10:33,704] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3599 ms
+[2024-04-17 16:10:34,771] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:10:34,834] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 16:10:34,857] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.992 seconds (process running for 7.583)
+[2024-04-17 16:10:40,350] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 16:10:40,351] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 16:10:40,353] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 1 ms
+[2024-04-17 16:11:19,569] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575)
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260)
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616)
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:622)
+	at java.base/java.util.stream.ReferencePipeline.toList(ReferencePipeline.java:627)
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getUnicodeFlagfromIso(RestServiceImpl.java:118)
+	at com.thirdpartapi.demo.Controller.RestController.getUnicodes(RestController.java:63)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 16:12:09,068] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 18748 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 16:12:09,101] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 16:12:12,502] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 16:12:12,546] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:12:12,554] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 16:12:12,558] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 16:12:12,829] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 16:12:12,833] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3508 ms
+[2024-04-17 16:12:13,954] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:12:14,016] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 16:12:14,036] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.996 seconds (process running for 7.529)
+[2024-04-17 16:12:18,229] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 16:12:18,230] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 16:12:18,233] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 1 ms
+[2024-04-17 16:13:03,979] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575)
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260)
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616)
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:622)
+	at java.base/java.util.stream.ReferencePipeline.toList(ReferencePipeline.java:627)
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getUnicodeFlagfromIso(RestServiceImpl.java:118)
+	at com.thirdpartapi.demo.Controller.RestController.getUnicodes(RestController.java:63)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 16:14:43,321] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 7688 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 16:14:43,339] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 16:14:46,653] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 16:14:46,681] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:14:46,691] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 16:14:46,692] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 16:14:46,911] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 16:14:46,915] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3373 ms
+[2024-04-17 16:14:48,085] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:14:48,149] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 16:14:48,179] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.937 seconds (process running for 7.556)
+[2024-04-17 16:14:51,393] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 16:14:51,394] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 16:14:51,396] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 0 ms
+[2024-04-17 16:15:25,200] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-8080-exec-1] [247] [WARN ] Resolved [org.springframework.web.context.request.async.AsyncRequestNotUsableException: ServletOutputStream failed to flush: java.nio.channels.ClosedChannelException]
+[2024-04-17 16:15:33,354] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 14552 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 16:15:33,365] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 16:15:36,364] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 16:15:36,412] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:15:36,419] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 16:15:36,421] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 16:15:36,655] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 16:15:36,661] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3156 ms
+[2024-04-17 16:15:37,828] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:15:37,918] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 16:15:37,945] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.643 seconds (process running for 7.381)
+[2024-04-17 16:15:43,021] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 16:15:43,025] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 16:15:43,032] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 7 ms
+[2024-04-17 16:17:38,906] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-8080-exec-2] [247] [WARN ] Resolved [org.springframework.web.context.request.async.AsyncRequestNotUsableException: ServletOutputStream failed to flush: java.nio.channels.ClosedChannelException]
+[2024-04-17 16:17:46,092] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 11116 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 16:17:46,107] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 16:17:49,355] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 16:17:49,391] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:17:49,401] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 16:17:49,403] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 16:17:49,614] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 16:17:49,618] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3327 ms
+[2024-04-17 16:17:50,753] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:17:50,837] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 16:17:50,863] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.76 seconds (process running for 7.215)
+[2024-04-17 16:17:55,789] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 16:17:55,790] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 16:17:55,795] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 4 ms
+[2024-04-17 16:19:10,441] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575)
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260)
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616)
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:622)
+	at java.base/java.util.stream.ReferencePipeline.toList(ReferencePipeline.java:627)
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getUnicodeFlagfromIso(RestServiceImpl.java:118)
+	at com.thirdpartapi.demo.Controller.RestController.getUnicodes(RestController.java:63)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 16:21:48,722] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 10324 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 16:21:48,737] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 16:21:51,710] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 16:21:51,736] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:21:51,742] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 16:21:51,743] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 16:21:51,959] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 16:21:51,964] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3062 ms
+[2024-04-17 16:21:52,997] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:21:53,058] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 16:21:53,092] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.607 seconds (process running for 7.122)
+[2024-04-17 16:21:56,512] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 16:21:56,513] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 16:21:56,515] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 2 ms
+[2024-04-17 16:22:21,965] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.UnicodeFlagResponse.getData()" because "unicodeFlagResponse" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.UnicodeFlagResponse.getData()" because "unicodeFlagResponse" is null
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getUnicodeFlagfromIso(RestServiceImpl.java:120)
+	at com.thirdpartapi.demo.Controller.RestController.getUnicodes(RestController.java:63)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 16:22:39,088] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 23916 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 16:22:39,096] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 16:22:43,013] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 16:22:43,044] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:22:43,053] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 16:22:43,055] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 16:22:43,349] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 16:22:43,353] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 4056 ms
+[2024-04-17 16:22:44,796] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:22:44,856] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 16:22:44,876] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 6.718 seconds (process running for 8.155)
+[2024-04-17 16:22:49,541] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 16:22:49,542] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 16:22:49,544] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 1 ms
+[2024-04-17 16:25:25,884] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.UnicodeFlagResponse.getData()" because "unicodeFlagResponse" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.UnicodeFlagResponse.getData()" because "unicodeFlagResponse" is null
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getUnicodeFlagfromIso(RestServiceImpl.java:120)
+	at com.thirdpartapi.demo.Controller.RestController.getUnicodes(RestController.java:63)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 16:29:24,298] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 11172 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 16:29:24,307] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 16:29:28,375] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 16:29:28,401] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:29:28,408] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 16:29:28,409] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 16:29:28,602] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 16:29:28,608] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3992 ms
+[2024-04-17 16:29:29,591] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:29:29,664] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 16:29:29,695] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 6.505 seconds (process running for 8.016)
+[2024-04-17 16:29:39,543] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 16:29:39,547] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 16:29:39,550] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 1 ms
+[2024-04-17 16:29:50,076] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-8080-exec-2] [247] [WARN ] Resolved [org.springframework.web.context.request.async.AsyncRequestNotUsableException: ServletOutputStream failed to flush: java.nio.channels.ClosedChannelException]
+[2024-04-17 16:30:00,519] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 15888 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 16:30:00,572] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 16:30:03,632] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 16:30:03,662] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:30:03,670] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 16:30:03,671] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 16:30:03,899] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 16:30:03,907] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3097 ms
+[2024-04-17 16:30:05,030] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 16:30:05,092] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 16:30:05,113] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 5.751 seconds (process running for 7.529)
+[2024-04-17 16:30:07,727] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 16:30:07,728] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 16:30:07,732] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 3 ms
+[2024-04-17 16:31:27,154] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.UnicodeFlagResponse.getData()" because "unicodeFlagResponse" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.UnicodeFlagResponse.getData()" because "unicodeFlagResponse" is null
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getUnicodeFlagfromIso(RestServiceImpl.java:116)
+	at com.thirdpartapi.demo.Controller.RestController.getUnicodes(RestController.java:63)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 21:10:41,195] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 15216 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 21:10:41,207] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 21:10:44,759] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 21:10:44,800] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 21:10:44,807] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 21:10:44,808] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 21:10:45,042] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 21:10:45,047] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3604 ms
+[2024-04-17 21:10:46,091] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 21:10:46,152] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 21:10:46,176] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 6.006 seconds (process running for 7.727)
+[2024-04-17 21:23:20,416] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 21:23:20,441] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 21:23:20,518] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 76 ms
+[2024-04-17 21:41:04,271] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.UnicodeFlagResponse.getData()" because "unicodeFlagResponse" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.UnicodeFlagResponse.getData()" because "unicodeFlagResponse" is null
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getUnicodeFlagfromIso(RestServiceImpl.java:116)
+	at com.thirdpartapi.demo.Controller.RestController.getUnicodes(RestController.java:63)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 21:43:46,063] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 20976 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 21:43:46,079] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 21:43:49,238] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 21:43:49,262] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 21:43:49,269] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 21:43:49,271] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 21:43:49,499] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 21:43:49,504] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3227 ms
+[2024-04-17 21:43:51,536] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 21:43:51,648] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 21:43:51,676] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 6.899 seconds (process running for 8.743)
+[2024-04-17 21:43:57,101] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 21:43:57,102] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 21:43:57,107] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 2 ms
+[2024-04-17 21:46:10,127] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.UnicodeFlagResponse.getData()" because "unicodeFlagResponse" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.thirdpartapi.demo.Entity.UnicodeFlagResponse.getData()" because "unicodeFlagResponse" is null
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getUnicodeFlagfromIso(RestServiceImpl.java:115)
+	at com.thirdpartapi.demo.Controller.RestController.getUnicodes(RestController.java:63)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 21:46:25,305] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 21208 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 21:46:25,331] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 21:46:28,642] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 21:46:28,666] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 21:46:28,671] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 21:46:28,672] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 21:46:28,858] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 21:46:28,876] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3349 ms
+[2024-04-17 21:46:30,828] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 21:46:30,961] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 21:46:31,002] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 6.74 seconds (process running for 8.236)
+[2024-04-17 21:46:36,556] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 21:46:36,560] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 21:46:36,563] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [554] [INFO ] Completed initialization in 2 ms
+[2024-04-17 21:52:32,907] [org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver] [http-nio-8080-exec-2] [247] [WARN ] Resolved [org.springframework.web.context.request.async.AsyncRequestNotUsableException: ServletOutputStream failed to flush: java.nio.channels.ClosedChannelException]
+[2024-04-17 21:52:41,171] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 18724 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 21:52:41,185] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 21:52:44,521] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 21:52:44,543] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 21:52:44,549] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 21:52:44,550] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 21:52:44,732] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 21:52:44,744] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 3358 ms
+[2024-04-17 21:52:46,931] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 21:52:47,069] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 21:52:47,121] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 6.935 seconds (process running for 8.396)
+[2024-04-17 21:52:54,900] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-3] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 21:52:54,903] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-3] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 21:52:54,905] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-3] [554] [INFO ] Completed initialization in 1 ms
+[2024-04-17 21:58:01,718] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-3] [175] [ERROR] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575)
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260)
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616)
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:622)
+	at java.base/java.util.stream.ReferencePipeline.toList(ReferencePipeline.java:627)
+	at com.thirdpartapi.demo.Service.ServiceImpl.RestServiceImpl.getUnicodeFlagfromIso(RestServiceImpl.java:117)
+	at com.thirdpartapi.demo.Controller.RestController.getUnicodes(RestController.java:63)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:925)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2024-04-17 22:02:54,271] [org.springframework.boot.StartupInfoLogger] [main] [50] [INFO ] Starting DemoApplication using Java 17.0.8 with PID 5748 (C:\thirdpartyapi\target\classes started by amitf in C:\thirdpartyapi)
+[2024-04-17 22:02:54,285] [org.springframework.boot.SpringApplication] [main] [654] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-04-17 22:02:58,719] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [109] [INFO ] Tomcat initialized with port 8080 (http)
+[2024-04-17 22:02:58,750] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-17 22:02:58,759] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting service [Tomcat]
+[2024-04-17 22:02:58,760] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-17 22:02:58,997] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2024-04-17 22:02:59,002] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [main] [296] [INFO ] Root WebApplicationContext: initialization completed in 4540 ms
+[2024-04-17 22:03:01,334] [org.apache.juli.logging.DirectJDKLog] [main] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-17 22:03:01,462] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [main] [241] [INFO ] Tomcat started on port 8080 (http) with context path ''
+[2024-04-17 22:03:01,488] [org.springframework.boot.StartupInfoLogger] [main] [56] [INFO ] Started DemoApplication in 8.672 seconds (process running for 10.333)
+[2024-04-17 22:03:09,128] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2024-04-17 22:03:09,130] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [532] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2024-04-17 22:03:09,131] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [554] [INFO ] Completed initialization in 1 ms
